@@ -16,15 +16,23 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOPS-Principles-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/DSA-Fundamentals-critical?style=flat"/>
+  <img src="https://img.shields.io/badge/STL-C++%20Standard%20Library-00599C?style=flat&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenVINO-000000?style=flat&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-FFC107?style=flat&logo=agile&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MFC-Windows%20UI-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/StarUML-Diagramming-4C1?style=flat&logo=uml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-Methodology-orange?style=flat&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Team%20Collaboration-Active-brightgreen?style=flat"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 ---
