@@ -38,7 +38,8 @@
 ---
 
 ### 📌 Featured Projects
-Here is my Latest repositoriy:
+Here are my Latest repositories:
+- 💡 **[VisionEntry: Face Login and Attendance Manager Qt + MySQL + OpenCV](https://github.com/balwantsinghmnit/VisionEntry)** – Qt GUI with SQL CRUD operations and with OpenCV integration for image processing
 - 💡 **[Student Record Manager Qt + MySQL](https://github.com/balwantsinghmnit/QtStudentRecordApp)** – Qt GUI with SQL CRUD operations
 
 ---
