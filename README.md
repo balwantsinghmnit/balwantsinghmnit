@@ -55,6 +55,9 @@ Here are my Latest repositories:
 ### 📫 Let's Connect
 <a href="mailto:balwantsinghmnit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/balwant-singh-bs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://balwantsinghmnit.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=flat&logo=google-chrome&logoColor=white">
+</a>
 
 ---
 
